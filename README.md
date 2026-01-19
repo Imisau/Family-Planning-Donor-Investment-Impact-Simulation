@@ -38,4 +38,56 @@ Using **Power Query, SQL, Python and Excel** the following steps were applied:
 -	Normalization of indicators to enable cross-scenario comparison
 -	Validation checks for internal consistency
 
+# Executive Overview – Scenario Performance Summary
+
+![](https://github.com/Imisau/Family-Planning-Donor-Investment-Impact-Simulation/blob/main/FPD2.png)
+
+## What the Visual Shows
+This slide presents **headline KPIs comparing three FP expansion scenarios** across 9 states and 10,000 youth clients:
+-	Baseline
+-	Moderate Scale-Up
+-	Aggressive Scale-Up
+## Key Findings (Numerical)
+-	Total simulated clients: **10,000**
+-	States covered: **9**
+- Scenario distribution:
+  -	Baseline: **3,355 clients**
+	- Moderate Scale-Up: **3,313 clients**
+	- Aggressive Scale-Up: **3,332 clients**
+
+Across all scenarios:
+-	Average service receipt rate ranges narrowly between **63.7% and 64.9%**
+-	Average coverage probability is stable at approximately **65%**
+
+## Donor Implication
+Early results indicate **marginal performance differences across scale-up scenarios,** suggesting that **scale alone does not guarantee improved outcomes.**
+
+# Cost Efficiency – Cost vs Coverage Trade-Off
+
+![](https://github.com/Imisau/Family-Planning-Donor-Investment-Impact-Simulation/blob/main/FPD3.png)
+
+### This Visual compares:
+-	Average cost per client
+-	Total program cost
+-	Coverage probability by scenario
+  
+## Key Findings (Numerical)
+
+### Scenario	            Avg Cost per Client (USD)	       Total Cost (USD)     	Avg Coverage Probability
+:-----------------------:|:---------------------------:|:---------------------:|:---------------------------
+Baseline	                $27.96	                         $93,813.77	            65.1%
+Moderate Scale-Up 	      $28.15	                         $93,254.57	            65.2%
+Aggressive Scale-Up     	$28.08	                         $93,575.89	            64.9%
+
+-	Cost per client increases slightly **(≈ $0.19)** under scale-up scenarios
+-	Coverage gains remain statistically negligible **(< 0.2 percentage points)**
+-	Aggressive Scale-Up does **not** outperform Moderate Scale-Up on cost efficiency
+
+## Statistical Implication
+The **incremental cost-effectiveness ratio (ICER)** between scenarios is weak, indicating **diminishing returns to scale.**
+
+
+  
+
+
 
