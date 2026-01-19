@@ -165,9 +165,9 @@ Investment without parallel health system capacity building increases **implemen
 
 ## MERL Learning
 - Scenario analysis should be paired with:
-  o	Behavioral insights
-  o	Facility readiness assessments
-  o	Demand-generation indicators
+  -	Behavioral insights
+  -	Facility readiness assessments
+  -	Demand-generation indicators
 
 # Strategic Recommendations for Donors
 1.	**Avoid blanket aggressive scale-up** without feasibility investments
