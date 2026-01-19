@@ -146,9 +146,9 @@ This Visual categorizes scenarios by implementation feasibility.
 
 ## Key Findings (Numerical)
 - 100% of records across all scenarios are classified as “Low Feasibility”
-  o	Baseline: 3,355
-  o	Moderate Scale-Up: 3,313
-  o Aggressive Scale-Up: 3,332
+  - Baseline: 3,355
+  -	Moderate Scale-Up: 3,313
+  - Aggressive Scale-Up: 3,332
 
 ### Interpretation
 Scale-up scenarios were modeled **without commensurate system strengthening,** resulting in **uniform feasibility risk.**
@@ -184,6 +184,7 @@ Interact With The Dataset [Here]
 
 ### Author
 Emmanuel Kyauta
+
 Monitoring, Evaluation, Research & Learning (MERL) | Strategic Health Data Analyst
 Power BI • DAX • SQL • Python • Donor Decision Analytics
 
