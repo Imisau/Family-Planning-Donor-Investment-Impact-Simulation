@@ -74,9 +74,9 @@ Early results indicate **marginal performance differences across scale-up scenar
 ## Key Findings (Numerical)
 
 ### Scenario	            Avg Cost per Client (USD)	       Total Cost (USD)     	Avg Coverage Probability
-:-----------------------:|:---------------------------:|:---------------------:|:---------------------------
+:-----------------------:|:---------------------------:|:---------------------:|:---------------------------:
 Baseline	                $27.96	                         $93,813.77	            65.1%
-Moderate Scale-Up 	      $28.15	                         $93,254.57	            65.2%
+Moderate Scale-Up 	        $28.15	                         $93,254.57	            65.2%
 Aggressive Scale-Up     	$28.08	                         $93,575.89	            64.9%
 
 -	Cost per client increases slightly **(≈ $0.19)** under scale-up scenarios
