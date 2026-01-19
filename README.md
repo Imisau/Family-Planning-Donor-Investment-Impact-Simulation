@@ -52,8 +52,8 @@ This slide presents **headline KPIs comparing three FP expansion scenarios** acr
 -	States covered: **9**
 - Scenario distribution:
   -	Baseline: **3,355 clients**
-	- Moderate Scale-Up: **3,313 clients**
-	- Aggressive Scale-Up: **3,332 clients**
+  - Moderate Scale-Up: **3,313 clients**
+  - Aggressive Scale-Up: **3,332 clients**
 
 Across all scenarios:
 -	Average service receipt rate ranges narrowly between **63.7% and 64.9%**
@@ -85,6 +85,110 @@ Aggressive Scale-Up      |	$28.08	                   |      $93,575.89	     |   
 
 ## Statistical Implication
 The **incremental cost-effectiveness ratio (ICER)** between scenarios is weak, indicating **diminishing returns to scale.**
+
+### The Value-for-Money (VFM) & Predictive Insights
+
+This visuals also integrates **VFM scores,** cost, and service receipt.
+Observed Patterns
+- Higher cost does **not consistently predict higher VFM**
+- VFM scores cluster between **~58 and ~69**
+- Best-performing VFM cases occur under **Baseline and Moderate Scale-Up**
+
+## Predictive Insight (Model-Based)
+If current trends persist:
+- A 10% increase in funding is predicted to yield **<2% increase in service uptake**
+- Equity-adjusted returns decline sharply beyond baseline investment levels
+
+
+
+# Coverage Outcomes – Service Uptake Performance
+
+![](https://github.com/Imisau/Family-Planning-Donor-Investment-Impact-Simulation/blob/main/FPD4.png
+)
+
+This Visual focuses on actual service receipt rates, a more policy-relevant outcome than probability alone.
+## Key Findings (Numerical)
+- Baseline service receipt rate: **64.9%**
+- Aggressive Scale-Up: **64.5%**
+- Moderate Scale-Up: **63.7%**
+Despite increased investment intensity:
+- No scenario exceeds **65% service uptake**
+- Aggressive Scale-Up underperforms Baseline by **0.4 percentage points**
+
+## Donor Implication
+Scaling financial inputs without addressing behavioral or system constraints yields **limited marginal gains in service uptake.**
+
+# Equity Analysis – Rural vs Urban Distribution
+
+![](https://github.com/Imisau/Family-Planning-Donor-Investment-Impact-Simulation/blob/main/FPD5.png)
+
+This Visual disaggregates service receipt by settlement type, highlighting equity implications.
+
+## Key Findings (Numerical)
+|   Scenario	                    |   Rural Service Rate        |  Urban Service Rate|
+:----------------------------------:|:---------------------------:|:---------------------------
+|   Baseline	                    |    65.1%	                  |   64.6%
+|   Moderate Scale-Up	            |    65.2%	                  |  61.8%
+|   Aggressive Scale-Up	            |    64.5%	                  |   64.4%
+	
+Moderate Scale-Up improves rural reach but ***reduces urban coverage by ~3.4 pp**
+- Baseline delivers the **most balanced equity profile**
+- Aggressive Scale-Up shows **no equity advantage**
+
+## Equity Implication
+Targeted design matters more than funding intensity for equitable outcomes.
+Poorly targeted scale-up can **shift inequities rather than reduce them.**
+
+# Operational Feasibility Assessment
+
+![](https://github.com/Imisau/Family-Planning-Donor-Investment-Impact-Simulation/blob/main/FPD6.png)
+This Visual categorizes scenarios by implementation feasibility.
+
+## Key Findings (Numerical)
+- 100% of records across all scenarios are classified as “Low Feasibility”
+  o	Baseline: 3,355
+  o	Moderate Scale-Up: 3,313
+  o Aggressive Scale-Up: 3,332
+
+### Interpretation
+Scale-up scenarios were modeled **without commensurate system strengthening,** resulting in **uniform feasibility risk.**
+
+## Donor Implication
+Feasibility is a binding constraint.
+Investment without parallel health system capacity building increases **implementation risk.**
+
+# Statistical & MERL Implications
+## Key Statistical Insights
+- Variance across scenarios is low → outcomes are **structurally constrained**
+- Coverage probability is not the primary limiting factor
+- Service uptake likely driven by **non-financial determinants** (access, norms, delivery quality)
+
+## MERL Learning
+- Scenario analysis should be paired with:
+  o	Behavioral insights
+  o	Facility readiness assessments
+  o	Demand-generation indicators
+
+# Strategic Recommendations for Donors
+1.	**Avoid blanket aggressive scale-up** without feasibility investments
+2.	Prioritize **moderate, targeted expansion** with equity safeguards
+3.	Invest in **system readiness and demand-side interventions**
+4.	Use scenario modeling as a **learning and adaptive management tool**
+
+# Final Slide: Conclusion
+This analysis demonstrates that **more funding alone does not guarantee better FP outcomes.** 
+Scenario-based analytics reveal that **balanced, feasibility-aware, and equity-focused strategies** outperform aggressive scale-up approaches in both value-for-money and sustainability.
+The dashboard provides donors with a **transparent, auditable, and data-driven framework** for FP investment decisions.
+
+Interact With The Dataset [Here]
+
+### Author
+Emmanuel Kyauta
+Monitoring, Evaluation, Research & Learning (MERL) | Strategic Health Data Analyst
+Power BI • DAX • SQL • Python • Donor Decision Analytics
+
+
+
 
 
   
