@@ -89,7 +89,8 @@ The **incremental cost-effectiveness ratio (ICER)** between scenarios is weak, i
 ### The Value-for-Money (VFM) & Predictive Insights
 
 This visuals also integrates **VFM scores,** cost, and service receipt.
-Observed Patterns
+
+**Observed Patterns**
 - Higher cost does **not consistently predict higher VFM**
 - VFM scores cluster between **~58 and ~69**
 - Best-performing VFM cases occur under **Baseline and Moderate Scale-Up**
@@ -175,12 +176,12 @@ Investment without parallel health system capacity building increases **implemen
 3.	Invest in **system readiness and demand-side interventions**
 4.	Use scenario modeling as a **learning and adaptive management tool**
 
-# Final Slide: Conclusion
+# Conclusion
 This analysis demonstrates that **more funding alone does not guarantee better FP outcomes.** 
 Scenario-based analytics reveal that **balanced, feasibility-aware, and equity-focused strategies** outperform aggressive scale-up approaches in both value-for-money and sustainability.
 The dashboard provides donors with a **transparent, auditable, and data-driven framework** for FP investment decisions.
 
-Interact With The Dataset [Here]
+Interact With The Dataset [Here](https://github.com/Imisau/Family-Planning-Donor-Investment-Impact-Simulation/blob/main/FP_Donor_Investment_Impact_Simulation_9States_10000.xlsx)
 
 ### Author
 Emmanuel Kyauta
